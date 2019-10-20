@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Show_Id</key>
+		<string>0</string>
+		<key>Show_Title</key>
+		<string>Season 1</string>
+		<key>Show_Thumb</key>
+		<string>s01e01</string>
+		<key>Episodes</key>
+		<array>
+			<dict>
+				<key>Episode Number</key>
+				<integer>1</integer>
+				<key>Episode Title</key>
+				<string>What are coding challenges</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e01</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>2</integer>
+				<key>Episode Title</key>
+				<string>What you will create</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e02</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e03</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e04</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e05</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e06</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e07</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>What is github</string>
+				<key>Episode Thumbnail</key>
+				<string>s01e08</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Show_Id</key>
+		<string>1</string>
+		<key>Show_Title</key>
+		<string>Season 2</string>
+		<key>Show_Thumb</key>
+		<string>s02e01</string>
+		<key>Episodes</key>
+		<array>
+			<dict>
+				<key>Episode Number</key>
+				<integer>1</integer>
+				<key>Episode Title</key>
+				<string>Understanding colors</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e01</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>2</integer>
+				<key>Episode Title</key>
+				<string>Combining colours</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e02</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>Tools for designing</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e03</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>1</integer>
+				<key>Episode Title</key>
+				<string>Understanding colors</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e04</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>2</integer>
+				<key>Episode Title</key>
+				<string>Combining colours</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e05</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>Tools for designing</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e06</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>1</integer>
+				<key>Episode Title</key>
+				<string>Understanding colors</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e07</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>2</integer>
+				<key>Episode Title</key>
+				<string>Combining colours</string>
+				<key>Episode Thumbnail</key>
+				<string>s02e08</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Show_Id</key>
+		<string>0</string>
+		<key>Show_Title</key>
+		<string>Season 3</string>
+		<key>Show_Thumb</key>
+		<string>s03e01</string>
+		<key>Episodes</key>
+		<array>
+			<dict>
+				<key>Episode Number</key>
+				<integer>1</integer>
+				<key>Episode Title</key>
+				<string>Introduction to Typography</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e01</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>2</integer>
+				<key>Episode Title</key>
+				<string>The serif type</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e02</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>3</integer>
+				<key>Episode Title</key>
+				<string>The sans-serif type</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e03</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>4</integer>
+				<key>Episode Title</key>
+				<string>Readability</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e04</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>4</integer>
+				<key>Episode Title</key>
+				<string>Combine fonts</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e05</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>4</integer>
+				<key>Episode Title</key>
+				<string>Combine fonts</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e06</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>4</integer>
+				<key>Episode Title</key>
+				<string>Combine fonts</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e07</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+			<dict>
+				<key>Episode Number</key>
+				<integer>4</integer>
+				<key>Episode Title</key>
+				<string>Combine fonts</string>
+				<key>Episode Thumbnail</key>
+				<string>s03e08</string>
+				<key>Episode Video Path</key>
+				<string>1. Introduction to Typography.mp4</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
