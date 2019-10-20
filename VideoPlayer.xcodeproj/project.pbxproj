@@ -76,6 +76,14 @@
 			path = Utilities;
 			sourceTree = "<group>";
 		};
+		8B0A8206235D0856006D7BD0 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				8BEBDEFF235CEB4A008DBE29 /* Cabin-Bold.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
 		8B30406B235CE84A00BE4BFA /* 34. Typography */ = {
 			isa = PBXGroup;
 			children = (
@@ -131,11 +139,11 @@
 		8BC172D522DDBF6F0041B1C4 /* VideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				8B0A8206235D0856006D7BD0 /* Font */,
 				8B0A8203235CF8D8006D7BD0 /* Utilities */,
 				8B5889D822DE6546007FC789 /* Model */,
 				8BE9A95722DDBF9C00988480 /* Controllers */,
 				8BEBDF01235CF57E008DBE29 /* View */,
-				8BEBDEFF235CEB4A008DBE29 /* Cabin-Bold.ttf */,
 				8B671335235CD6EC002FF041 /* Show */,
 				8BC172E222DDBF6F0041B1C4 /* Info.plist */,
 				8B5889DB22DE68C9007FC789 /* TvShow.plist */,
